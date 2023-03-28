@@ -30,8 +30,7 @@ function App() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-
-    <main style={{border:'1px solid black'}}>
+    <main className={`p-3`} style={{}}>
       <Header currentPage={currentPage} handlePageChange={handlePageChange}/>
       <div style={{minHeight:'80vh'}}>
       {renderPage()}

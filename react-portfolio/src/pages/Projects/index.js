@@ -1,51 +1,53 @@
 import React from 'react';
 import ProjectCard from '../../components/ProjectCard';
 import PawPawls from '../../images/pawpals.jpeg';
+import Writes from '../../images/writes.png';
+import Carrot from "../../images/carrot.jpeg";
 
 function Projects () {
     const myProjects = [
         {
             id: 1,
-            title: 'Project 1',
+            title: 'PawPals',
             image: PawPawls,
-            link: '',
-            github: ''
+            link: 'https://pawpals.herokuapp.com/',
+            github: 'https://github.com/thebobfather2/pawpals'
         },
         {
             id: 2,
-            title: 'Project 2',
-            image: '',
-            link: '',
-            github: ''
+            title: 'Sarah Jacobs Writes',
+            image: Writes,
+            link: 'https://sarahgjacobs.github.io/sarahjacobswrites/',
+            github: 'https://github.com/sarahgjacobs/sarahjacobswrites'
         },
         {
             id: 3,
-            title: 'Project 3',
-            image: '',
-            link: '',
-            github: ''
+            title: 'Carrot Calendar',
+            image: Carrot,
+            link: 'https://github.com/thebobfather2/carrotcalendar',
+            github: 'https://github.com/thebobfather2/carrotcalendar'
         },
-        {
-            id: 4,
-            title: 'Project 4',
-            image: '',
-            link: '',
-            github: ''
-        },
-        {
-            id: 5,
-            title: 'Project 5',
-            image: '',
-            link: '',
-            github: ''
-        },
-        {
-            id: 6,
-            title: 'Project 6',
-            image: '',
-            link: '',
-            github: ''
-        }
+        // {
+        //     id: 4,
+        //     title: 'Project 4',
+        //     image: '',
+        //     link: '',
+        //     github: ''
+        // },
+        // {
+        //     id: 5,
+        //     title: 'Project 5',
+        //     image: '',
+        //     link: '',
+        //     github: ''
+        // },
+        // {
+        //     id: 6,
+        //     title: 'Project 6',
+        //     image: '',
+        //     link: '',
+        //     github: ''
+        // }
     ]
     return (
         <section>
