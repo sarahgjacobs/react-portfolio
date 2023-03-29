@@ -16,7 +16,7 @@ Sarah wants to connect with employers and recruiters with a modern, clean portfo
 ## Installation & Usage
 ![Screenshot of Portfolio Website](/src/images/Screen%20Shot%202023-03-28%20at%209.40.47%20PM.png "Sarah Jacobs Portfolio")
 
-See [this link]() to view the page.
+See [this link](https://sarah-jacobs.herokuapp.com/) to view the page.
 
 ## Contributions
 Sarah Jacobs
