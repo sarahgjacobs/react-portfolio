@@ -14,7 +14,7 @@
 Sarah wants to connect with employers and recruiters with a modern, clean portfolio. She uses React to create efficiency so that viewers can browse through her work easily.
 
 ## Installation & Usage
-![Screenshot of Portfolio Website](./assets/images/Screen%20Shot%202023-02-09%20at%209.22.03%20AM.png "Sarah Jacobs Portfolio")
+![Screenshot of Portfolio Website](/src/images/Screen%20Shot%202023-03-28%20at%209.40.47%20PM.png "Sarah Jacobs Portfolio")
 
 See [this link]() to view the page.
 
