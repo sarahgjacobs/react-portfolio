@@ -5,7 +5,7 @@ import Writes from '../../images/writes.png';
 import Carrot from "../../images/carrot.jpeg";
 import PortPic from "../../images/sarahport.png";
 import TimeTravel from "../../images/ttt.png";
-import TextEditor from "../../images/texteditor.png";
+import Tuter from "../../images/tuter.png";
 
 function Projects () {
     const myProjects = [
@@ -46,10 +46,10 @@ function Projects () {
         },
         {
             id: 6,
-            title: 'Offline Text Editor',
-            image: TextEditor,
-            link: 'https://github.com/sarahgjacobs/pwa',
-            github: 'https://github.com/sarahgjacobs/pwa'
+            title: 'Tuter',
+            image: Tuter,
+            link: 'https://github.com/thebobfather2/tuterapp',
+            github: 'https://tuter.herokuapp.com/'
         }
     ]
     return (
